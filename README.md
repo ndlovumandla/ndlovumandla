@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=1E40AF&width=600&lines=Hi+👋+I'm+Mandla+Ndlovu;Software+Engineer;Building+Robust+Web+Apps" alt="Typing SVG" />
+  <img src="./assets/header.png" alt="Mandla Ndlovu - Software Engineer" width="700"/>
 </p>
 
 
