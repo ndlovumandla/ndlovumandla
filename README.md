@@ -1,138 +1,74 @@
-🔒 Mandla Ndlovu: Cybersecurity & Development Expert
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=1E40AF&width=600&lines=Hi+👋+I'm+Mandla+Ndlovu;Cybersecurity+%26+Full-Stack+Developer;Building+Secure+%7C+Scalable+Systems" alt="Typing SVG" />
+</p>
 
-  
-  
-  
+---
 
+# 🕸️ Welcome to My GitHub Portfolio  
 
-I am Mandla Ndlovu (ndlovumandla), a dedicated cybersecurity specialist and developer with an unwavering commitment to resolving complex challenges through strategic, high-impact technology solutions. My focus is delivering measurable results with precision and professionalism.
+I’m **Mandla Ndlovu**, a **Cybersecurity Specialist & Developer** passionate about building **secure, scalable, and high-impact systems**. My mission: protect, empower, and innovate.  
 
-🔧 Core Expertise
+---
 
-Cybersecurity: Advanced threat detection, secure system design, and risk mitigation  
-Ethical Hacking: Penetration testing, vulnerability assessment, and exploit prevention  
-Full-Stack Development: Building robust, scalable applications from front to back
+## 🔧 My Toolbox  
 
-🎯 Objective
-Address critical issues—fraud, security breaches, inefficiencies—with robust, actionable systems that protect and empower.
-💻 Technical Proficiency
+| Languages | Security | DevOps | Frameworks |
+|-----------|----------|--------|------------|
+| ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) | ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) | ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900) | ![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) |
 
+---
 
+## 🚀 Featured Projects  
 
-Skill
-Tools & Technologies
+### 🕵️ FraudSentry Now  
+> **Real-time phishing detection (99% accuracy).**  
+📌 [View Project](#) | 🔧 Python • Machine Learning • APIs  
 
+---
 
+### 🔗 AccessLock App  
+> **Secure resource access with OAuth 2.0.**  
+📌 [View Project](#) | 🔧 React • Node.js • Authentication  
 
-Languages
-Python, JavaScript, React, Node.js
+---
 
+### 🛡️ ShopSafe Suite  
+> **Enterprise defense against data breaches.**  
+📌 [View Project](#) | 🔧 AWS • Docker • Encryption  
 
-Security
-Kali Linux, Wireshark, Metasploit
+---
 
+### 🌐 Community CyberNet  
+> **Open-source cybersecurity education.**  
+📌 [View Project](#) | 🔧 GitHub • Markdown • Docs  
 
-DevOps
-Docker, AWS, CI/CD pipelines
+---
 
+## 📊 GitHub Overview  
 
-Frameworks
-Secure APIs, microservices, cloud-native
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ndlovumandla&show_icons=true&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ndlovumandla&theme=radical&hide_border=true" height="165"/>
+</p>
 
+---
 
-🛡️ Focus
-Engineer advanced threat detection, secure frameworks, and reliable tools for lasting impact.
-⚡ Commitment
-A disciplined, results-oriented approach—meticulous code, rigorous testing, and assured outcomes.
-📬 Contact Me
+## 🏆 Achievements  
 
-Email: Your Email  
-LinkedIn: Your LinkedIn  
-Portfolio: Your Portfolio
+- 🛡️ **Security+ Certified** | Pursuing **CEH**  
+- 📈 Reduced fraud detection time by **40%** in live systems  
+- 🔥 Strengthened **50+ business networks** against attacks  
 
+---
 
-🚀 High-Impact Projects
-🕵️ FraudSentry Now
-A sophisticated system to detect and mitigate phishing scams, delivering rapid, accurate protection to safeguard assets.  
+## 📬 Let’s Connect  
 
-Impact: Real-time phishing detection with 99% accuracy  
-Tech: Python, machine learning, API integration
+<p align="center">
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
 
-🔗 AccessLock App
-A secure, streamlined web platform ensuring trusted access to essential resources, enhancing safety and efficiency.  
-
-Impact: Reduced unauthorized access by 85%  
-Tech: React, Node.js, OAuth 2.0
-
-🛡️ ShopSafe Suite
-A comprehensive set of defenses to protect businesses from data breaches, fortifying networks with proven resilience.  
-
-Impact: Strengthened 50+ business networks  
-Tech: AWS, Docker, encryption protocols
-
-🌐 Community CyberNet
-A strategic open-source initiative to equip users with critical cybersecurity knowledge, expanding reach and effectiveness.  
-
-Impact: Educated 10,000+ users globally  
-Tech: GitHub, Markdown, community-driven docs
-
-
-🏅 Professional Achievements
-
-📜 Credentials: CompTIA Security+ certified, actively pursuing CEH designation  
-📊 Results: Reduced fraud detection time by 40% in live testing—precise, documented success  
-🔥 Dedication: Steadfast focus on engineering solutions that deliver under pressure
-
-
-⚡ Why Mandla Ndlovu?
-
-Strategic Problem-Solver: I analyze complex issues, devise targeted strategies, and execute with precision  
-Solution Architect: I design and build scalable, reliable systems to address critical needs effectively  
-Analytical Expert: I leverage data and logic to diagnose challenges and deliver optimal outcomes  
-Results-Driven Professional: I thrive on achieving measurable success, consistently exceeding expectations
-
-
-🔥 Explore My Work!
-Review my pinned repositories below. I am Mandla Ndlovu—committed, professional, and ready to excel. Contact me to collaborate!
-
-  
-    
-  
-  
-    
-  
-
-
-
-  @keyframes pulse {
-    0% { transform: scale(1); }
-    50% { transform: scale(1.03); }
-    100% { transform: scale(1); }
-  }
-  @keyframes fadeIn {
-    0% { opacity: 0; }
-    100% { opacity: 1; }
-  }
-  h1 {
-    animation: pulse 2s infinite;
-    color: #1e40af;
-    font-size: 2.2em;
-    font-weight: 700;
-  }
-  h2 {
-    animation: fadeIn 1.5s ease-in;
-    color: #2563eb;
-    font-weight: 600;
-  }
-  li {
-    transition: all 0.3s ease;
-    padding: 4px;
-  }
-  li:hover {
-    transform: translateX(10px);
-    color: #2563eb;
-  }
-  p {
-    line-height: 1.5;
-    font-weight: 500;
-  }
+---
