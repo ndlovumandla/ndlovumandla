@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=1E40AF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Mandla+Ndlovu;Software+Engineer+%7C+Cybersecurity+Aspirant;I+Build+Robust%2C+Scalable+%26+Innovative+Web+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=1E40AF&width=600&lines=Hi+👋+I'm+Mandla+Ndlovu;Software+Engineer;Building+Robust+Web+Apps" alt="Typing SVG" />
 </p>
+
 
 ---
 
