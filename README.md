@@ -1,83 +1,76 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=1E40AF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Mandla+Ndlovu;Software+Engineer+%7C+Cybersecurity+Aspirant;I+Build+Secure%2C+Scalable+%26+Innovative+Web+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=1E40AF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Mandla+Ndlovu;Software+Engineer+%7C+Cybersecurity+Aspirant;I+Build+Robust%2C+Scalable+%26+Innovative+Web+Solutions" alt="Typing SVG" />
 </p>
 
 ---
 
 # 🕸️ Welcome to My GitHub  
 
-I’m **Mandla Ndlovu**, a **Software Engineer** passionate about designing and building **scalable, secure, and impactful applications**.  
-I specialize in **Django, React, and PostgreSQL**, and I’m actively growing toward **Cybersecurity-focused development**.  
+I’m **Mandla Ndlovu**, a **Software Engineer** passionate about designing and building **scalable, secure, and innovative web applications**.  
+I specialize in **Django, React, and PostgreSQL**, and I’m actively developing skills in **cybersecurity-focused software engineering**.  
 
 ---
 
 ## 🚀 Featured Projects  
 
 ### 🛒 Digitera E-Commerce Platform  
-A comprehensive **Django-based e-commerce platform** tailored for the **South African market**.  
-- 🇿🇦 Supports **ZAR currency**, **VAT compliance**, and **local payment gateways**.  
-- 🎨 Built with **creators and small businesses in mind**: marketplace tools, vendor dashboards, and analytics.  
-- 🔧 **Tech:** Django • PostgreSQL • Bootstrap • PayFast API  
+A comprehensive **Django-based e-commerce platform** tailored for a local market.  
+- Supports **currency handling, tax compliance, and local payment integrations**.  
+- Includes **creator-focused tools** for vendor dashboards and analytics.  
+- 🔧 **Tech:** Django • PostgreSQL • Bootstrap • Payment API  
 📌 [View Repository](https://github.com/ndlovumandla/digitera-e-commerce)  
 
 ---
 
-### 🏢 The Learning Organisation CRM  
-An enterprise-grade **CRM web platform** for a **learnership and skills development company**.  
-- 📊 Tracks learners, facilitators, and training sessions in real time.  
-- 📅 Automates scheduling, reporting, and compliance documentation.  
+### 📅 Learning Management CRM  
+A **CRM web platform** to manage learners, facilitators, and training sessions.  
+- Automates **scheduling, reporting, and compliance tracking**.  
+- Provides dashboards for **real-time analytics and progress monitoring**.  
 - 🔧 **Tech:** Django • React • PostgreSQL • Docker  
-📌 *Currently in private development*  
+📌 *Currently in development*  
 
 ---
 
-### 🌐 SD Corp Corporate Website  
-A modern, responsive **business website** built for **SDCorp**.  
-- ⚡ Optimized for speed, SEO, and mobile-first experience.  
-- 🎨 Clean UI with branding integration and service showcase.  
+### 🌐 Corporate Website Template  
+A modern, responsive **corporate website template** optimized for user experience.  
+- Clean UI/UX design with **SEO and performance optimization**.  
+- Flexible for showcasing **services, portfolio, or company info**.  
 - 🔧 **Tech:** HTML • CSS • JavaScript • Bootstrap  
-📌 [View Live Site](https://sdcorp.co.za/)  
-
----
-
-### 📅 Centralized Booking Management System  
-A system to streamline **session bookings**, prevent duplicate reservations, and manage learner data.  
-- 📌 Built as part of university coursework.  
-- 🔧 **Tech:** Python • PostgreSQL • Django  
+📌 [View Live Demo](#)  
 
 ---
 
 ### 📊 Data Analysis & Visualization Tool  
 A platform for **cleaning, transforming, and visualizing datasets**.  
-- 📈 Generates actionable insights through **dashboards and charts**.  
+- Generates **actionable insights** through interactive charts and dashboards.  
 - 🔧 **Tech:** Python • Pandas • Matplotlib  
 
 ---
 
-## 💡 Showcase (Future-Proof Projects I’ve Engineered)  
+## 💡 Innovative Showcase Projects  
 
-> These projects highlight my ability to **design innovative, production-ready web apps** that solve real-world problems.  
+These highlight my ability to **build production-ready, high-impact web apps**:  
 
 ### 🛡️ ShopSafe Suite  
-An integrated **retail protection system** that secures transactions and protects customer data.  
-- 💳 End-to-end **encryption of financial data**.  
-- 🚀 Deployed to AWS with Docker orchestration.  
+An integrated **retail protection system** that secures transactions and sensitive data.  
+- End-to-end **data encryption and secure workflows**.  
+- Deployed with **cloud and containerization tools**.  
 - 🔧 **Tech:** Django • AWS • Docker • Celery  
 
 ---
 
 ### 📚 EduLink Learning Platform  
-A scalable **e-learning platform** connecting learners with accredited facilitators.  
-- 🎥 Features live class streaming, resource sharing, and assessment tools.  
-- 🌍 Designed for **South African education & training providers**.  
+A **scalable e-learning platform** connecting learners and facilitators.  
+- Supports **live class streaming, resource sharing, and assessments**.  
+- Designed with **scalability and modularity** in mind.  
 - 🔧 **Tech:** React • Django REST Framework • WebRTC  
 
 ---
 
 ### 💼 TaskFlow Project Manager  
-A **collaboration and task-tracking tool** designed for teams.  
-- 🗂️ Kanban boards, team chat, and progress analytics.  
-- 🔔 Integrated email & push notifications.  
+A **collaboration and task-tracking tool** for teams.  
+- Includes **Kanban boards, team chat, notifications, and analytics**.  
+- Focused on **team productivity and project visibility**.  
 - 🔧 **Tech:** React • Node.js • PostgreSQL • Socket.IO  
 
 ---
@@ -102,9 +95,9 @@ A **collaboration and task-tracking tool** designed for teams.
 ## 🏆 Highlights  
 
 - 🎓 BSc IT (Computer Science & Informatics), University of Johannesburg  
-- 💼 Software Engineer & IT Support at The Learning Organisation  
-- 🚀 Built **enterprise web platforms**, **corporate websites**, and **e-commerce systems**  
-- 🔥 Aspiring to transition into **Cybersecurity Engineering**  
+- 💼 Software Engineer & IT Support Experience  
+- 🚀 Built **enterprise web platforms, e-commerce systems, and scalable apps**  
+- 🔥 Aspiring to transition into **Cybersecurity-focused development**  
 
 ---
 
