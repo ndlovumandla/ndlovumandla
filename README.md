@@ -44,6 +44,16 @@ BSc IT (Computer Science & Informatics) graduate from the University of Johannes
 
 </details>
 
+<details open>
+<summary>🎓 Social Impact & EdTech</summary>
+
+| | |
+|---|---|
+| **[YouthSkillsHub](https://github.com/ndlovumandla/youthskillshub)** | `React` `Django` `PostgreSQL` `scikit-learn` `Docker` |
+| Full-stack mentorship platform addressing South Africa's youth unemployment. Features TF-IDF mentor matching, course discovery from Coursera/edX, gamification, multilingual support (EN/Zulu/Afrikaans), and PWA offline capabilities. | ![Active](https://img.shields.io/badge/status-active-brightgreen) |
+
+</details>
+
 <details>
 <summary>🌐 Web & E-Commerce (Other)</summary>
 
@@ -65,7 +75,6 @@ BSc IT (Computer Science & Informatics) graduate from the University of Johannes
 
 ## Contact
 
-- Email: [your-email@gmail.com]
-- LinkedIn: [linkedin.com/in/your-handle]
+- Email: brandonmandlandlovu@gmail.com
 
 ---
