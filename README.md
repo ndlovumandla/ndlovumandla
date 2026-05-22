@@ -68,13 +68,13 @@ BSc IT (Computer Science & Informatics) graduate from the University of Johannes
 
 <table>
 <tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=ndlovumandla&theme=tokyonight&hide_border=true" alt="GitHub Stats" /></td>
-<td><img src="https://github-readme-stats.vercel.app/api?username=ndlovumandla&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api?username=ndlovumandla&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true" alt="GitHub Stats" /></td>
+<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=ndlovumandla&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></td>
 </tr>
 </table>
 
 ## Contact
 
-- Email: brandonmandlandlovu@gmail.com
+- Email: [brandonmandlandlovu@gmail.com](mailto:brandonmandlandlovu@gmail.com)
 
 ---
