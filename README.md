@@ -23,6 +23,15 @@ BSc IT (Computer Science & Informatics) graduate from the University of Johannes
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
 
 ## Featured Projects
+<details open>
+<summary>☕ Java Core & OOP Mastery</summary>
+
+| | |
+|---|---|
+| **[JavaCore](https://github.com/ndlovumandla/JavaCore)** | `Java` `OOP` `Clean Code` |
+| Central monorepo for Java fundamentals and Object-Oriented Programming practice. Contains multiple South African-themed projects: **KarooSeedBank**, **LastLighthouseKeeper**, and **SowetoChessClub**. | ![Active](https://img.shields.io/badge/status-active-brightgreen) |
+
+</details>
 
 <details open>
 <summary>🛒 Enterprise & Commerce</summary>
