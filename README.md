@@ -30,7 +30,8 @@ BSc IT (Computer Science & Informatics) graduate from the University of Johannes
 |---|---|
 | **[JavaCore](https://github.com/ndlovumandla/JavaCore)** | `Java` `OOP` `Clean Code` |
 | Central monorepo for Java fundamentals and Object-Oriented Programming practice. Contains multiple South African-themed projects: **KarooSeedBank**, **LastLighthouseKeeper**, and **SowetoChessClub**. | ![Active](https://img.shields.io/badge/status-active-brightgreen) |
-
+| **[DSA-Topics-Repository](https://github.com/ndlovumandla/DSA-Topics-Repository)** | `Java` `DSA` `Algorithms` `Problem Solving` |
+| Comprehensive Data Structures & Algorithms repository with South African real-world scenarios. 10 core topics with beginner to advanced implementations, Big-O analysis, and interview preparation. | ![Active](https://img.shields.io/badge/status-active-brightgreen) |
 </details>
 
 <details open>
